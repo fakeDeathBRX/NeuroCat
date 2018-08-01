@@ -63,7 +63,3 @@ As the training dataset is plenty, you can have numbers lower than ``0.001``
   
 
 -----------
-
-  
-
-> Note: ANN works faster with GPU support, if yours doesn't support newer CUDA versions, you may have to compile PyTorch
