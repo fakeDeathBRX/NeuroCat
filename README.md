@@ -1,4 +1,3 @@
-
 # NeuroCat
 
 #### A Convolutional Neural Network mainly focused on distinguishing CAT(erpillar) from cats.
@@ -9,7 +8,7 @@
 
 Have you ever mistaken a backhoe from a cat just because they're labeled alike? Luckly you will never have this problem again with this repo!
 
-10 Epochs with default `LR` resulted on 96% (48/50) accuracy on the test set (25 images each). This model is saved on the repo (`model.ckpt`).
+10 Epochs with default `LR` resulted on 94% (47/50) accuracy on the test set (25 images each). This model is saved on the repo (`model.ckpt`).
 
 You can download the training dataset [here](https://drive.google.com/file/d/1YsbOcrYKytlqMM7CZolV-Evp8JGk56pE/view?usp=sharing), it contains 1420 images of cats and 1425 images of Caterpillar machinery, totalizing 2845 images on training.
 
