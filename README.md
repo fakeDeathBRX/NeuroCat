@@ -19,7 +19,7 @@ This project was made using [`PyTorch`](https://pytorch.org/).
 
 ## Usage
 
-1. Clone this repo. `git clone https://gitlab.com/fakeDeathBRX/NeuroCat.git`.
+1. Clone this repo. `git clone https://github.com/fakeDeathBRX/NeuroCat`.
 
 2. Download and extract the training dataset.
 
@@ -33,6 +33,7 @@ This project was made using [`PyTorch`](https://pytorch.org/).
 | image image.ext | Get result of the CNN on `image.ext` |
 | model name | Sets `name` as model |
 | epoch N | Sets `N` epochs to run |
+| lr N | Sets `LR = N` |
 | batch N | Sets `BATCH_SIZE = N` |
 | nload | Don't load the model |
 | nsave | Don't save the model |

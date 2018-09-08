@@ -51,6 +51,9 @@ for i in range(len(sys.argv)):
     elif(sys.argv[i] == "epoch"):
         EPOCH = int(sys.argv[i+1])
         i += 1
+    elif(sys.argv[i] == "lr"):
+        LR = float(sys.argv[i+1])
+        i += 1
     elif(sys.argv[i] == "batch"):
         BATCH_SIZE = int(sys.argv[i+1])
         i += 1
