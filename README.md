@@ -19,7 +19,7 @@ This project was made using [`PyTorch`](https://pytorch.org/).
 
 ## Usage
 
-1. Clone this repo. `git clone https://github.com/fakeDeathBRX/NeuroCat`.
+1. Clone this repo. `git clone https://github.com/ivanch/NeuroCat`.
 
 2. Download and extract the training dataset.
 
